@@ -73,7 +73,6 @@ dissipar calor por suor — situação muito comum em dias úmidos no Rio de
 Janeiro/Resende, especialmente em treinos no período da tarde.
 
 ## Links da entrega
-- Repositório GitHub: **[INSERIR LINK AQUI]**
 - Projeto Wokwi: https://wokwi.com/projects/474902121286379521
 - Canal público ThingSpeak: https://thingspeak.mathworks.com/channels/3496483
 
