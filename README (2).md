@@ -1,6 +1,13 @@
 # Monitor Ambiental de Treinamento — Pelé Academia (Resende)
 ### Projeto ECCS — Sprint 3 — Edge Computing & Computer Systems
 
+MEMBROS DO GRUPO:
+João Thees Castro Santiago
+Caio Viana de Faria
+Anna Júlia Elias Andrade
+Clara Diel Gama Secco
+Arthur Alen Amorelli Pereira
+
 ## Descrição do sistema
 
 Protótipo baseado em ESP32 para monitorar condições ambientais (temperatura e
