@@ -2,10 +2,10 @@
 ### Projeto ECCS — Sprint 3 — Edge Computing & Computer Systems
 
 MEMBROS DO GRUPO:
-João Thees Castro Santiago
-Caio Viana de Faria
-Anna Júlia Elias Andrade
-Clara Diel Gama Secco
+João Thees Castro Santiago/
+Caio Viana de Faria/
+Anna Júlia Elias Andrade/
+Clara Diel Gama Secco/
 Arthur Alen Amorelli Pereira
 
 ## Descrição do sistema
