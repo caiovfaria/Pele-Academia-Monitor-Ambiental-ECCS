@@ -75,12 +75,3 @@ Janeiro/Resende, especialmente em treinos no período da tarde.
 ## Links da entrega
 - Projeto Wokwi: https://wokwi.com/projects/474902121286379521
 - Canal público ThingSpeak: https://thingspeak.mathworks.com/channels/3496483
-
-## Estrutura do repositório
-```
-.
-├── sketch.ino        # código-fonte do ESP32
-├── diagram.json       # diagrama de circuito do Wokwi
-├── libraries.txt       # bibliotecas usadas na simulação
-└── README.md          # este arquivo
-```
