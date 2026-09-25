@@ -1,7 +1,7 @@
 # Monitor Ambiental de Treinamento — Pelé Academia (Resende)
 ### Projeto ECCS — Sprint 3 — Edge Computing & Computer Systems
 
-MEMBROS DO GRUPO: João Thees Castro Santiago/ Caio Viana de Faria/ Anna Júlia Elias Andrade/ Clara Diel Gama Secco/ Arthur Alen Amorelli Pereira
+MEMBROS DO GRUPO: João Thees Castro Santiago-RM572829/ Caio Viana de Faria-RM570634/ Anna Júlia Elias Andrade-RM573453/ Clara Diel Gama Secco-RM571679/ Arthur Alen Amorelli Pereira-RM571897
 
 ## Descrição do sistema
 
